@@ -1,2 +1,1 @@
-# odin-recipes
-A basic recipe website
+Vítejte na mé jednoduché HTML stránce s recepty! Tento projekt jsem vytvořila v rámci kurzu Odin Project, abych se naučila základy tvorby webových stránek. Stránka obsahuje několik mých oblíbených receptů, které ráda vařím a sdílím s ostatními. Pokud chcete tyto recepty vyzkoušet, stačí kliknout na název receptu a zobrazí se vám podrobný postup. Doufám, že vám tento projekt bude užitečný a že si užijete vaření!
